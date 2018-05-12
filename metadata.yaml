@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1253
     wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16368#The-White-Ladies-of-WorcesterA-Romance-of-the-Twelfth-Century
 gutenberg_issued: '2005-07-27'
 gutenberg_type: Text
 identifiers:
